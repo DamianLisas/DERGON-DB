@@ -1,0 +1,6 @@
+/.metadata/
+
+database/.settings
+database/.classpath
+database/.project
+database/target/*
